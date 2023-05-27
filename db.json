@@ -194,8 +194,8 @@
 		},
 		{
 			"id": "25",
-			"name": "https://www.mashed.com/img/gallery/copycat-mcdonalds-mcdouble-recipe/l-intro-1619549835.jpg",
-			"image": "image25.jpg",
+			"name": "Bla bla burger",
+			"image": "https://www.mashed.com/img/gallery/copycat-mcdonalds-mcdouble-recipe/l-intro-1619549835.jpg",
 			"short_description": "Burger with two beef patties, cheese, onions, pickles, ketchup, and mustard.",
 			"shop": "MacDonalds",
 			"price": 2.99
