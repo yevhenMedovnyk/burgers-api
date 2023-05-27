@@ -1,0 +1,244 @@
+{
+	"burgers": [
+		{
+			"id": "1",
+			"name": "Classic Cheeseburger",
+			"image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M6HASPARCZHYNN4XTUYT7H6PTE.jpg&w=1440",
+			"short_description": "A classic burger with a beef patty, cheese, lettuce, and pickles.",
+			"shop": "MacDonalds",
+			"price": 3.99
+		},
+		{
+			"id": "2",
+			"name": "Whopper",
+			"image": "https://www.portsmouth.co.uk/webimg/b25lY21zOmY3OGY5Y2ZkLTNlNmYtNGY2Ny1iMWFkLTdiNjM5NWI3ZjJhMTo3OTk4MDk3Zi1mNzA0LTQ2YjAtOTBjZi0zOWVkMTVlMjFiZDk=.jpg?width=1200&enable=upscale",
+			"short_description": "Flame-grilled burger with a beef patty, tomatoes, lettuce, onions, and mayo.",
+			"shop": "Burger King",
+			"price": 4.99
+		},
+		{
+			"id": "3",
+			"name": "Zinger Burger",
+			"image": "https://t4.ftcdn.net/jpg/05/62/77/29/360_F_562772942_Gw67qmVo0TQCMV8xr3HLcrcUKgneYWMN.jpg",
+			"short_description": "Spicy chicken burger with a crispy fillet, lettuce, and mayo.",
+			"shop": "KFC",
+			"price": 4.49
+		},
+		{
+			"id": "4",
+			"name": "Quarter Pounder",
+			"image": "https://www.freep.com/gcdn/-mm-/a3b07f308033e27946412f16219d2da8619bc730/c=5-0-1276-718/local/-/media/2018/05/07/DetroitFreeP/DetroitFreePress/636612930800887312-IMG-2618.PNG",
+			"short_description": "Burger with a quarter-pound beef patty, cheese, onions, pickles, ketchup, and mustard.",
+			"shop": "MacDonalds",
+			"price": 4.79
+		},
+		{
+			"id": "5",
+			"name": "Chicken Royale",
+			"image": "https://www.tastecard.co.uk/content/dam/dcg/tastecard/blog/blog-posts/2022/restaurants/burger-king/Burger%20King%20Chicken%20Royale.jpg",
+			"short_description": "Chicken burger with a breaded chicken fillet, lettuce, and mayo.",
+			"shop": "Burger King",
+			"price": 3.99
+		},
+		{
+			"id": "6",
+			"name": "Twister Wrap",
+			"image": "https://brand-uk.assets.kfc.co.uk/styles/original/s3/2022-11/W4_22_ON_PREMISE_TWISTER_SMOKEYBBQ_1200x800.jpg?VersionId=TyIqBb26PDXWy9edoDH3q1fgGmf4Yw2K&itok=Ipf3A_ys",
+			"short_description": "Wrap with a spicy chicken strip, lettuce, tomatoes, and sauce.",
+			"shop": "KFC",
+			"price": 3.49
+		},
+		{
+			"id": "7",
+			"name": "Big Mac",
+			"image": "https://imgix.theurbanlist.com/content/article/big-mac-facebook.jpg?auto=format,compress&w=1200&h=630&fit=crop",
+			"short_description": "Iconic burger with two beef patties, lettuce, cheese, onions, pickles, and special sauce.",
+			"shop": "MacDonalds",
+			"price": 4.49
+		},
+		{
+			"id": "8",
+			"name": "Cheeseburger",
+			"image": "https://i.ytimg.com/vi/SvOx7tA_Cv8/maxresdefault.jpg",
+			"short_description": "Burger with a beef patty, cheese, onions, pickles, ketchup, and mustard.",
+			"shop": "Burger King",
+			"price": 2.99
+		},
+		{
+			"id": "9",
+			"name": "Original Recipe Twister",
+			"image": "https://d12n9cpx6835mo.cloudfront.net/Twister_Combo_Reg_web_mobile.jpg?v=118.5",
+			"short_description": "Wrap with an original recipe chicken strip, lettuce, tomatoes, and sauce.",
+			"shop": "KFC",
+			"price": 4.29
+		},
+		{
+			"id": "10",
+			"name": "Filet-O-Fish",
+			"image": "image10.jpg",
+			"short_description": "Fish burger with a breaded fish fillet, tartar sauce, and cheese.",
+			"shop": "MacDonalds",
+			"price": 3.49
+		},
+		{
+			"id": "11",
+			"name": "Rodeo Burger",
+			"image": "image11.jpg",
+			"short_description": "Burger with a beef patty, onion rings, BBQ sauce, and mayo.",
+			"shop": "Burger King",
+			"price": 3.79
+		},
+		{
+			"id": "12",
+			"name": "Popcorn Chicken",
+			"image": "image12.jpg",
+			"short_description": "Bite-sized crispy chicken pieces.",
+			"shop": "KFC",
+			"price": 3.99
+		},
+		{
+			"id": "13",
+			"name": "Double Quarter Pounder",
+			"image": "image13.jpg",
+			"short_description": "Burger with two quarter-pound beef patties, cheese, onions, pickles, ketchup, and mustard.",
+			"shop": "MacDonalds",
+			"price": 5.99
+		},
+		{
+			"id": "14",
+			"name": "Bacon King",
+			"image": "image14.jpg",
+			"short_description": "Burger with two beef patties, bacon, cheese, onions, and mayo.",
+			"shop": "Burger King",
+			"price": 6.49
+		},
+		{
+			"id": "15",
+			"name": "Hot Wings",
+			"image": "image15.jpg",
+			"short_description": "Spicy chicken wings with a crispy coating.",
+			"shop": "KFC",
+			"price": 4.99
+		},
+		{
+			"id": "16",
+			"name": "McChicken",
+			"image": "image16.jpg",
+			"short_description": "Chicken burger with a breaded chicken patty, lettuce, and mayo.",
+			"shop": "MacDonalds",
+			"price": 3.49
+		},
+		{
+			"id": "17",
+			"name": "Chicken Fries",
+			"image": "image17.jpg",
+			"short_description": "Breaded chicken strips in the shape of fries.",
+			"shop": "Burger King",
+			"price": 3.99
+		},
+		{
+			"id": "18",
+			"name": "Original Recipe Chicken",
+			"image": "image18.jpg",
+			"short_description": "Chicken with a secret blend of 11 herbs and spices.",
+			"shop": "KFC",
+			"price": 4.99
+		},
+		{
+			"id": "19",
+			"name": "Big Tasty",
+			"image": "image19.jpg",
+			"short_description": "Juicy burger with a beef patty, lettuce, cheese, onions, and Big Tasty sauce.",
+			"shop": "MacDonalds",
+			"price": 4.79
+		},
+		{
+			"id": "20",
+			"name": "Bacon Double XL",
+			"image": "image20.jpg",
+			"short_description": "Burger with two beef patties, bacon, cheese, lettuce, onions, and BBQ sauce.",
+			"shop": "Burger King",
+			"price": 5.99
+		},
+		{
+			"id": "21",
+			"name": "Zinger Tower Burger",
+			"image": "image21.jpg",
+			"short_description": "Spicy chicken burger with a crispy fillet, hash brown, cheese, lettuce, and mayo.",
+			"shop": "KFC",
+			"price": 5.49
+		},
+		{
+			"id": "22",
+			"name": "Double Cheeseburger",
+			"image": "image22.jpg",
+			"short_description": "Double cheeseburger with two beef patties, cheese, onions, pickles, ketchup, and mustard.",
+			"shop": "MacDonalds",
+			"price": 3.99
+		},
+		{
+			"id": "23",
+			"name": "Chicken Royale with Cheese",
+			"image": "image23.jpg",
+			"short_description": "Chicken burger with a breaded chicken fillet, cheese, lettuce, and mayo.",
+			"shop": "Burger King",
+			"price": 4.49
+		},
+		{
+			"id": "24",
+			"name": "Colonel's Box",
+			"image": "image24.jpg",
+			"short_description": "Assorted chicken pieces with fries and a drink.",
+			"shop": "KFC",
+			"price": 6.99
+		},
+		{
+			"id": "25",
+			"name": "McDouble",
+			"image": "image25.jpg",
+			"short_description": "Burger with two beef patties, cheese, onions, pickles, ketchup, and mustard.",
+			"shop": "MacDonalds",
+			"price": 2.99
+		},
+		{
+			"id": "26",
+			"name": "Chicken Nuggets",
+			"image": "image26.jpg",
+			"short_description": "Bite-sized chicken pieces with a crispy coating.",
+			"shop": "Burger King",
+			"price": 3.49
+		},
+		{
+			"id": "27",
+			"name": "Spicy Zinger Twister",
+			"image": "image27.jpg",
+			"short_description": "Wrap with a spicy chicken strip, cheese, lettuce, and sauce.",
+			"shop": "KFC",
+			"price": 4.29
+		},
+		{
+			"id": "28",
+			"name": "Big Tasty Bacon",
+			"image": "image28.jpg",
+			"short_description": "Juicy burger with a beef patty, lettuce, cheese, onions, bacon, and Big Tasty sauce.",
+			"shop": "MacDonalds",
+			"price": 5.49
+		},
+		{
+			"id": "29",
+			"name": "Veggie Burger",
+			"image": "image29.jpg",
+			"short_description": "Burger with a vegetable patty, lettuce, tomatoes, onions, pickles, and mayo.",
+			"shop": "Burger King",
+			"price": 3.99
+		},
+		{
+			"id": "30",
+			"name": "Veggie Rice Box",
+			"image": "image30.jpg",
+			"short_description": "Rice box with a vegetable patty, corn, lettuce, and salsa.",
+			"shop": "KFC",
+			"price": 4.49
+		}
+	]
+}
