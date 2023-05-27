@@ -75,7 +75,7 @@
 		{
 			"id": "10",
 			"name": "Filet-O-Fish",
-			"image": "image10.jpg",
+			"image": "https://www.sidechef.com/recipe/c9e219a9-0403-4736-bd60-7ed7ea29ec06.jpg?d=1408x1120",
 			"short_description": "Fish burger with a breaded fish fillet, tartar sauce, and cheese.",
 			"shop": "MacDonalds",
 			"price": 3.49
@@ -83,7 +83,7 @@
 		{
 			"id": "11",
 			"name": "Rodeo Burger",
-			"image": "image11.jpg",
+			"image": "https://images.avana.asia/32406/images/x-large/e232659b03472f9b972e",
 			"short_description": "Burger with a beef patty, onion rings, BBQ sauce, and mayo.",
 			"shop": "Burger King",
 			"price": 3.79
@@ -91,7 +91,7 @@
 		{
 			"id": "12",
 			"name": "Popcorn Chicken",
-			"image": "image12.jpg",
+			"image": "https://recipe30.com/wp-content/uploads/2022/06/Popcorn-chicken.jpg",
 			"short_description": "Bite-sized crispy chicken pieces.",
 			"shop": "KFC",
 			"price": 3.99
@@ -99,7 +99,7 @@
 		{
 			"id": "13",
 			"name": "Double Quarter Pounder",
-			"image": "image13.jpg",
+			"image": "https://metro.co.uk/wp-content/uploads/2019/08/PRC_78626625.jpg?quality=90&strip=all",
 			"short_description": "Burger with two quarter-pound beef patties, cheese, onions, pickles, ketchup, and mustard.",
 			"shop": "MacDonalds",
 			"price": 5.99
@@ -107,7 +107,7 @@
 		{
 			"id": "14",
 			"name": "Bacon King",
-			"image": "image14.jpg",
+			"image": "https://freecaloriechart.uk/wp-content/uploads/2019/04/Calories_in_Burger_King_Bacon_King.jpg",
 			"short_description": "Burger with two beef patties, bacon, cheese, onions, and mayo.",
 			"shop": "Burger King",
 			"price": 6.49
@@ -115,7 +115,7 @@
 		{
 			"id": "15",
 			"name": "Hot Wings",
-			"image": "image15.jpg",
+			"image": "https://www.mcdonalds.com.mt/wp-content/uploads/2021/10/spicychickenwings.jpg",
 			"short_description": "Spicy chicken wings with a crispy coating.",
 			"shop": "KFC",
 			"price": 4.99
@@ -123,7 +123,7 @@
 		{
 			"id": "16",
 			"name": "McChicken",
-			"image": "image16.jpg",
+			"image": "https://munch.mt/wp-content/uploads/2023/02/MCCHICKEN-1.png",
 			"short_description": "Chicken burger with a breaded chicken patty, lettuce, and mayo.",
 			"shop": "MacDonalds",
 			"price": 3.49
@@ -131,7 +131,7 @@
 		{
 			"id": "17",
 			"name": "Chicken Fries",
-			"image": "image17.jpg",
+			"image": "https://www.mashed.com/img/gallery/the-untold-truth-of-burger-kings-chicken-fries/intro-1629386497.jpg",
 			"short_description": "Breaded chicken strips in the shape of fries.",
 			"shop": "Burger King",
 			"price": 3.99
@@ -139,7 +139,7 @@
 		{
 			"id": "18",
 			"name": "Original Recipe Chicken",
-			"image": "image18.jpg",
+			"image": "https://www.eatthis.com/wp-content/uploads/sites/4//media/images/ext/966368714/kfc-original-chicken-recipe.jpg?quality=82&strip=1",
 			"short_description": "Chicken with a secret blend of 11 herbs and spices.",
 			"shop": "KFC",
 			"price": 4.99
@@ -147,7 +147,7 @@
 		{
 			"id": "19",
 			"name": "Big Tasty",
-			"image": "image19.jpg",
+			"image": "https://i2-prod.dailyrecord.co.uk/incoming/article26475353.ece/ALTERNATES/s615b/1_JS169930690.jpg",
 			"short_description": "Juicy burger with a beef patty, lettuce, cheese, onions, and Big Tasty sauce.",
 			"shop": "MacDonalds",
 			"price": 4.79
@@ -155,7 +155,7 @@
 		{
 			"id": "20",
 			"name": "Bacon Double XL",
-			"image": "image20.jpg",
+			"image": "https://pbs.twimg.com/media/EdYlL5rXgAA-qC8.png",
 			"short_description": "Burger with two beef patties, bacon, cheese, lettuce, onions, and BBQ sauce.",
 			"shop": "Burger King",
 			"price": 5.99
@@ -163,7 +163,7 @@
 		{
 			"id": "21",
 			"name": "Zinger Tower Burger",
-			"image": "image21.jpg",
+			"image": "https://static.tossdown.com/images/739a2889bc3210699fde4b5535c9fe25.jpeg",
 			"short_description": "Spicy chicken burger with a crispy fillet, hash brown, cheese, lettuce, and mayo.",
 			"shop": "KFC",
 			"price": 5.49
@@ -171,7 +171,7 @@
 		{
 			"id": "22",
 			"name": "Double Cheeseburger",
-			"image": "image22.jpg",
+			"image": "https://www.cobsbread.com/us/wp-content//uploads/2021/07/20210728145913_IMG_9135-850x630-1.jpg",
 			"short_description": "Double cheeseburger with two beef patties, cheese, onions, pickles, ketchup, and mustard.",
 			"shop": "MacDonalds",
 			"price": 3.99
@@ -179,7 +179,7 @@
 		{
 			"id": "23",
 			"name": "Chicken Royale with Cheese",
-			"image": "image23.jpg",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvRvQJBD4F_AcC5j3zKBjDGDU_M0B1KZU9Vg&usqp=CAU",
 			"short_description": "Chicken burger with a breaded chicken fillet, cheese, lettuce, and mayo.",
 			"shop": "Burger King",
 			"price": 4.49
@@ -187,14 +187,14 @@
 		{
 			"id": "24",
 			"name": "Colonel's Box",
-			"image": "image24.jpg",
+			"image": "https://media.kfc.it/app/uploads/public/63e/e0d/789/63ee0d789af1f366933931.png",
 			"short_description": "Assorted chicken pieces with fries and a drink.",
 			"shop": "KFC",
 			"price": 6.99
 		},
 		{
 			"id": "25",
-			"name": "McDouble",
+			"name": "https://www.mashed.com/img/gallery/copycat-mcdonalds-mcdouble-recipe/l-intro-1619549835.jpg",
 			"image": "image25.jpg",
 			"short_description": "Burger with two beef patties, cheese, onions, pickles, ketchup, and mustard.",
 			"shop": "MacDonalds",
@@ -203,7 +203,7 @@
 		{
 			"id": "26",
 			"name": "Chicken Nuggets",
-			"image": "image26.jpg",
+			"image": "https://dinnerthendessert.com/wp-content/uploads/2019/10/Chicken-Nuggets-1-1.jpg",
 			"short_description": "Bite-sized chicken pieces with a crispy coating.",
 			"shop": "Burger King",
 			"price": 3.49
@@ -211,7 +211,7 @@
 		{
 			"id": "27",
 			"name": "Spicy Zinger Twister",
-			"image": "image27.jpg",
+			"image": "https://images.ctfassets.net/crbk84xktnsl/5tegp36psmM3SMnzucnuQb/e3d12d2fc2606833350f1e50b8c5a5b1/3D_Category_App_Bowls___Twisters_-_Twister.png",
 			"short_description": "Wrap with a spicy chicken strip, cheese, lettuce, and sauce.",
 			"shop": "KFC",
 			"price": 4.29
@@ -219,7 +219,7 @@
 		{
 			"id": "28",
 			"name": "Big Tasty Bacon",
-			"image": "image28.jpg",
+			"image": "https://marcasmais.com.br/wp-content/uploads/2023/04/big-tasty.jpg",
 			"short_description": "Juicy burger with a beef patty, lettuce, cheese, onions, bacon, and Big Tasty sauce.",
 			"shop": "MacDonalds",
 			"price": 5.49
@@ -227,7 +227,7 @@
 		{
 			"id": "29",
 			"name": "Veggie Burger",
-			"image": "image29.jpg",
+			"image": "https://hips.hearstapps.com/hmg-prod/images/veggie-burger-recipe-2-1650394698.jpg?crop=0.922xw:0.922xh;0.0311xw,0.0449xh&resize=1200:*",
 			"short_description": "Burger with a vegetable patty, lettuce, tomatoes, onions, pickles, and mayo.",
 			"shop": "Burger King",
 			"price": 3.99
@@ -235,7 +235,7 @@
 		{
 			"id": "30",
 			"name": "Veggie Rice Box",
-			"image": "image30.jpg",
+			"image": "https://cdn.loveandlemons.com/wp-content/uploads/2020/04/rice-bowl-recipes-500x375.jpg",
 			"short_description": "Rice box with a vegetable patty, corn, lettuce, and salsa.",
 			"shop": "KFC",
 			"price": 4.49
