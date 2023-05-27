@@ -240,5 +240,7 @@
 			"shop": "KFC",
 			"price": 4.49
 		}
-	]
+	],
+	"orders_info": [],
+	"orders_history": []
 }
